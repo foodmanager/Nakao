@@ -12,4 +12,10 @@
 　https://developer.android.com/reference/android/provider/MediaStore.html
 　Androidアプリ開発：[Android] Camera で撮影、Intentで簡単に
 　https://akira-watson.com/android/camera-intent.html
+　
+●AssetManager
+　AssetManager
+　https://developer.android.com/reference/android/content/res/AssetManager.html
+　assetsフォルダのファイルを扱う方法 AssetManager
+　http://pentan.info/android/app/sample/asset_manager.html
 
