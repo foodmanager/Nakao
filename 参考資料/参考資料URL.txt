@@ -1,9 +1,15 @@
-カメラリファレンス
-「MediaStore」
-https://developer.android.com/reference/android/provider/MediaStore.html
 
+●Git・tortoiceGit
+　サルでもわかるGit入門~バージョン管理を使いこなそう~
+　https://www.backlog.jp/git-guide/intro/intro2_1.html
 
+●Javadoc
+　JavaDrive
+　https://www.javadrive.jp/javadoc/
 
-
-
+●カメラ資料
+　MediaStore
+　https://developer.android.com/reference/android/provider/MediaStore.html
+　Androidアプリ開発：[Android] Camera で撮影、Intentで簡単に
+　https://akira-watson.com/android/camera-intent.html
 
